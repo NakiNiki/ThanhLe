@@ -1,2 +1,0 @@
-# ThanhLe
-Data Analyst Portfolio
